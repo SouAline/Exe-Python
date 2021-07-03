@@ -1,2 +1,2 @@
 # Exe-Python
- Exercicios de Python para prática da linguagem
+ Exercicios de Python para praticar uma linguagem.
